@@ -1,0 +1,3 @@
+My first GitHub exercise.
+I am learning Git basics.
+This is my first file.
