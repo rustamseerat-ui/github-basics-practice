@@ -1,0 +1,8 @@
+Today I learned:
+- How to install Git
+- How to create a GitHub repository
+- How to clone a repository
+- How to add files
+- How to commit
+- How to push
+- How to pull updates
