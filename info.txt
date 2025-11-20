@@ -1,3 +1,6 @@
 My first GitHub exercise.
 I am learning Git basics.
 This is my first file.
+Adding more text to practice Git commits.
+Git is getting easier.
+
